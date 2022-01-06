@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 
     my_msg.header.frame_id = "Hello World !";
 
-    my_msg.dm = "How you doin' ?";
+    my_msg.dm = "! Dlrow Olleh";
 
     while(ros::ok())
     {
